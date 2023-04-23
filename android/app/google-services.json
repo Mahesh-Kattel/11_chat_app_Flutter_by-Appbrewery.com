@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "854648715838",
+    "project_id": "angelachatapp-c5a04",
+    "storage_bucket": "angelachatapp-c5a04.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854648715838:android:6e232bef2b0c9b3a8eaf6f",
+        "android_client_info": {
+          "package_name": "com.example.angelachatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "854648715838-16c4drsp8l5f05oph1gr19bcvku5181v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCObC7fCah3C_wYFiCfKpMlsRctly6xFmA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "854648715838-16c4drsp8l5f05oph1gr19bcvku5181v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
